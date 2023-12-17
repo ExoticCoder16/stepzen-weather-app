@@ -8,11 +8,10 @@ export default function loading() {
         color="yellow"
       />
       <h1 className="text-6xl font-bold text-center mb-10 animate-pulse">
-        Loading City Weather Information
+        Loading Your AR Guide
       </h1>
       <h2 className="text-xl font-bold text-center mb-10 animate-pulse">
-        Hold on, we are crunching the numbers & generating an AI summary of the
-        Weather !
+        Hold on, we are Generating your AR cooking Guide !
       </h2>
     </div>
   );
